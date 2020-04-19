@@ -1,4 +1,4 @@
 # Practica 1 Computacion Grafica
-##                       por
-## José Alejandro Diaz Urrego
-## horario 9am a 12pm lunes
+## -------------------------por----------------------
+# José Alejandro Diaz Urrego
+## horario dia lunes de 9am a 12pm
